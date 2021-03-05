@@ -6,6 +6,7 @@
         <h2 align="center">DETAIL PESANAN</h2>
     </font>
     <hr>
+    <hr>
     @if(session()->has('massage'))
     <div class="row mt-3">
         <div class="col-md-6 mx-auto">
